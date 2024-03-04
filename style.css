@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #A349A3;
+}
+.container{
+    width: 600px;
+    height: 100%;
+    border: 1px solid rgb(253, 253, 253);
+    margin: 50px auto;
+    background-color: #fff;
+    
+    
+}
+.instagram{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.select{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-right: 5px ;
+    font-size: 20px;
+    color: #959595;
+    margin-top: 20px;
+}
+.arrow {
+    transform: rotate(180deg);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 12px;
+    color: #959595;
+    
+}
+.h1 {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;;
+    font-size: 28px;
+    margin-bottom: 50px;
+    
+    
+}
+
+
+.dancing-script-uniquifier {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 84px;
+}
+
+.input_text  input{
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid #DBDBDB;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.input_possword  input{
+    width: 500px;
+    height: 40px;
+    padding: 10px;
+    border: 2px solid #DBDBDB;
+    border-radius: 5px;
+    margin-left: 50px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.input_possword{
+    position: relative;
+}
+.koz img{
+    position: absolute;
+    top: 10px;
+    left: 515px;
+    width: 20px;
+    cursor: pointer;
+    
+}
+.login button{
+   width: 500px;
+   height: 40px;
+   background-color: #3897F1; 
+   margin-left: 50px;
+   font-size: 16px;
+   color:#fff;
+   font-weight: 600;
+   border:none;
+   border-radius: 5px;
+   margin-top: 20px;
+   margin-bottom: 15px;
+   cursor: pointer;
+}
+.help{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:#959595;
+    margin-bottom: 15px;
+}
+.help a{
+    text-decoration: none;
+    color:#000;   
+    
+}
+.fecbook button{
+    width: 500px;
+    height: 40px;
+    background-color: #3897F1; 
+    margin-left: 50px;
+    font-size: 16px;
+    color:#fff;
+    font-weight: 600;
+    border:none;
+    border-radius: 5px;
+    padding-left: 50px;
+    cursor: pointer;
+    
+}
+.fecbook{
+    position: relative;
+}
+.fecbook img{
+    width: 25px;
+    margin-top: 5px;
+    background-color: rgb(71, 181, 244);
+    position: absolute;
+    border-radius: 50%;
+    left: 200px;
+    top: 2px;
+}
+
+.or{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    
+}
+.line1{
+    width: 230px;
+    height: 2px;
+    background-color:#9B9B9B;
+}
+.line3{
+    width: 230px;
+    height: 2px;
+    background-color:#9B9B9B;
+}
+.line2{
+    font-family: sans-serif;
+    font-weight: 600;
+    color:#9B9B9B;
+    font-size: 16px;
+}
+.sign{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    color:#9B9B9B;
+    font-family: sans-serif;
+    border-bottom: 2px solid #9B9B9B;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.sign a{
+    text-decoration: none;
+    color:#000;
+
+}
+.from{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.from a{
+    text-decoration: none;
+    color:#9B9B9B;
+}
+
+
+
